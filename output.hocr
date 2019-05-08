@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract v4.0.0.20181030' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "c:\users\nicolas raj\onedrive\pd\dockertest\api3\static\images\annotation 2019-05-06 100129.png"; bbox 0 0 518 334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 244 20 486 136">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 261 20 403 64">
+     <span class='ocr_line' id='line_1_1' title="bbox 343 22 350 31; baseline 0 0; x_size 22.148148; x_descenders 5.5370369; x_ascenders 5.5370369">
+      <span class='ocrx_word' id='word_1_1' title='bbox 343 22 350 31; x_wconf 63'>7</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 261 20 403 64; baseline 0.014 -2; x_size 58.666664; x_descenders 14.666666; x_ascenders 14.666667">
+      <span class='ocrx_word' id='word_1_2' title='bbox 261 20 403 64; x_wconf 22'>As</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 244 84 486 102">
+     <span class='ocr_line' id='line_1_3' title="bbox 244 84 486 102; baseline -0.008 0; x_size 22.148148; x_descenders 5.5370369; x_ascenders 5.5370369">
+      <span class='ocrx_word' id='word_1_3' title='bbox 244 85 319 102; x_wconf 8'>CHANG!</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 326 85 409 101; x_wconf 96'>AIRPORT</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 415 84 486 101; x_wconf 74'>GROUP.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 244 115 452 136">
+     <span class='ocr_line' id='line_1_4' title="bbox 244 115 452 136; baseline -0.01 -2; x_size 22.148148; x_descenders 5.5370369; x_ascenders 5.5370369">
+      <span class='ocrx_word' id='word_1_6' title='bbox 244 117 298 134; x_wconf 96'>WONG</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 300 116 336 133; x_wconf 93'>LI</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 344 116 383 136; x_wconf 93'>XIN,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 390 115 452 133; x_wconf 92'>TESSA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 246 174 315 191">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 246 174 315 191">
+     <span class='ocr_line' id='line_1_5' title="bbox 246 174 315 191; baseline -0.014 0; x_size 21.333334; x_descenders 5.3333335; x_ascenders 5.3333335">
+      <span class='ocrx_word' id='word_1_10' title='bbox 246 174 315 191; x_wconf 96'>181017</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 296 221 409 238">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 296 221 409 238">
+     <span class='ocr_line' id='line_1_6' title="bbox 296 221 409 238; baseline -0.009 0; x_size 21.809525; x_descenders 5.4523811; x_ascenders 5.4523811">
+      <span class='ocrx_word' id='word_1_11' title='bbox 296 222 318 238; x_wconf 96'>30</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 325 221 357 237; x_wconf 96'>SEP</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 365 221 409 237; x_wconf 96'>2021</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 298 269 398 292">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 298 269 398 292">
+     <span class='ocr_line' id='line_1_7' title="bbox 298 269 398 292; baseline -0.02 0; x_size 43.75; x_descenders 8.5; x_ascenders 11.75">
+      <span class='ocrx_word' id='word_1_14' title='bbox 298 269 398 292; x_wconf 21'>Sa</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 518 334">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 0 0 518 334">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 518 334; baseline 0 0; x_size 446.66666; x_descenders 111.66666; x_ascenders 111.66666">
+      <span class='ocrx_word' id='word_1_15' title='bbox 0 0 518 334; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
+<script src="https://unpkg.com/hocrjs"></script>"
