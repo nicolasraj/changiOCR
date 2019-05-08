@@ -4,7 +4,7 @@ from flask import Flask, request, render_template, send_from_directory, send_fil
 import os
 from PIL import Image
 import csv
-import pytesseract
+#import pytesseract
 import pandas as pd
 import numpy as np
 import requests
